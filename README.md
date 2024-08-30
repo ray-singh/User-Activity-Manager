@@ -1,4 +1,4 @@
-# Simple-Authentication-System
+# User-Activity-Manager
 This project provides an implementation of a hash table in Python, featuring separate chaining for collision resolution. The HashTable class supports typical hash table operations such as insertion, deletion, and lookup. Developed as a part of a learning excercise in data structures and algorithms, this simple authentication system prioritizes speed over security. It draws inspiration from Okta, a leading identity and access management service. 
 
 Features:
